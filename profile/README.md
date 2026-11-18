@@ -2,16 +2,16 @@
 
 AlgoCracked is an AI product company based in Nairobi, Kenya, founded in 2026 by Peter Okoth.
 
-Our flagship is **[Sigmora](https://sigmora.org)**, an AI marketing workspace that studies a reference (an ad, a short, a brief) and produces, schedules and measures an original campaign from it.
+Our flagship is **[Sigmora](https://sigmora.org)**: marketing on autopilot, with content production, video and multi-channel publishing for founders, marketers, agencies and creator teams.
 
 ## Products
 
 | Product | What it is |
 |---|---|
-| [Sigmora](https://sigmora.org) | AI marketing workspace for agencies and creator teams (flagship) |
-| [1Snag](https://1snag.com) | Lead inbox and outreach workspace |
-| [MediQuest AI](https://mediquestai.com) | Health information and triage support |
-| [SkillSaber](https://skillsaber.org) | Interactive courses and live classrooms |
+| [Sigmora](https://sigmora.org) | Content production, video and multi-channel publishing (flagship) |
+| [1Snag](https://1snag.com) | A lead operating system: source, qualify, engage and convert leads in one workspace |
+| [MediQuest AI](https://mediquestai.com) | An AI health assistant with verified-professional records and consent-based access |
+| [SkillSaber](https://skillsaber.org) | Coding and data-science courses, books and practice |
 | [AlgoCracked](https://www.algocracked.com) | Coding interview, system design, AI and quant prep |
 
 The full list is at [algocracked.com/portfolio](https://www.algocracked.com/portfolio).
