@@ -9,7 +9,7 @@ Our flagship is **[Sigmora](https://sigmora.org)**: marketing on autopilot, with
 | Product | What it is |
 |---|---|
 | [Sigmora](https://sigmora.org) | Content production, video and multi-channel publishing (flagship) |
-| [1Snag](https://1snag.com) | A lead operating system: source, qualify, engage and convert leads in one workspace |
+| [1Snag](https://1snag.adrianwisely.com) | A lead operating system: source, qualify, engage and convert leads in one workspace |
 | [MediQuest AI](https://mediquestai.com) | An AI health assistant with verified-professional records and consent-based access |
 | [SkillSaber](https://skillsaber.org) | Coding and data-science courses, books and practice |
 | [AlgoCracked](https://www.algocracked.com) | Coding interview, system design, AI and quant prep |
